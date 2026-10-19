@@ -1,0 +1,49 @@
+.breadcrumb {
+  border-bottom: 1px solid #0B6B4F;
+}
+nav.navbar.mainNav {
+  border-top: 1px solid #2e5c9a;
+}
+.nav.nav-stacked.sideBar li.active {
+  border-left: 4px solid #0B6B4F;
+}
+.nav.nav-stacked.sideBar li.active .deeperNav li.active a {
+  border-left: 4px solid #0B6B4F;
+}
+.sidebar-offcanvas ul.list-group li.list-group-item ul.subNav li.list-group-item.active a:hover,
+.sidebar-offcanvas ul.list-group li.list-group-item ul.subNav li.list-group-item.active a:focus,
+.sidebar-offcanvas .list-group-item a:hover,
+.sidebar-offcanvas .list-group-item a:focus,
+.sidebar-offcanvas .list-group-item.active a:hover,
+.sidebar-offcanvas .list-group-item.active a:focus,
+.nav.nav-stacked.sideBar .active  > a:hover,
+.nav.nav-stacked.sideBar .active  > a:focus,
+.nav.nav-stacked.sideBar li  > a:hover,
+.nav.nav-stacked.sideBar li  > a:focus {
+  color: #0B6B4F;
+}
+.sidebar-offcanvas .list-group-item.active a {
+  color: #0B6B4F;
+}
+.sidebar-offcanvas ul.list-group li.list-group-item ul.subNav li.list-group-item.active {
+  border-left: 4px solid #0B6B4F;
+}
+#quickSearch li.dropdown-header {
+  color: #0B6B4F;
+}
+.modal-body .nav.nav-pills.nav-stacked li.active a {
+  border-left: 4px solid #0B6B4F;
+}
+.modal-body .nav.nav-pills.nav-stacked li.active a:hover,
+.modal-body .nav.nav-pills.nav-stacked .modal-body .nav.nav-pills.nav-stacked li.active a:focus,
+.modal-body .nav.nav-pills.nav-stacked .modal-body .nav.nav-pills.nav-stacked li a:hover,
+.modal-body .nav.nav-pills.nav-stacked .modal-body .nav.nav-pills.nav-stacked li a:focus {
+  color: #0B6B4F;
+}
+.jstree-wholerow-hovered {
+  background-color: #0B6B4F !important;
+}
+.jstree-wholerow-hovered .jstree-hovered {
+  background-color: #0B6B4F !important;
+}
+

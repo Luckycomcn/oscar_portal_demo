@@ -1,0 +1,1 @@
+import{N as e,d as t,v as n}from"./runtime-core.esm-bundler-kGY5sjXJ.js";import{t as r}from"./ContactForm-CshJqgz6.js";var i=n({__name:`FeedbackView`,setup(n){return(n,i)=>(e(),t(r,{title:n.$t(`feedback.title`),intro:n.$t(`feedback.intro`)},null,8,[`title`,`intro`]))}});export{i as default};

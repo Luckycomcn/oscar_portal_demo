@@ -1,0 +1,1 @@
+var e=[{url:`https://oscar.wmo.int/surface/rest/api`,role:`primary`,ok:!0,latencyMs:1520,checkedAt:`2026-10-04T04:53:24Z`},{url:`https://gawsis.meteoswiss.ch/GAWSIS/rest/api`,role:`backup`,ok:!0,latencyMs:1142,checkedAt:`2026-10-04T04:53:25Z`}];export{e as default};
